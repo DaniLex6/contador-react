@@ -9,7 +9,7 @@ function App() {
       <h1>Lista de Backlogs <GiMineTruck fontSize="45"/></h1>
       <Backlog
         id={"0001"}
-        cliente="Minera Penmont"
+        cliente="Minera Penmont 2"
         serie="APX123"
         modelo="420TRS"
         marca="CAT"
